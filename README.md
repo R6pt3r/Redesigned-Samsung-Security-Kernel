@@ -1,0 +1,2 @@
+# Redesigned-Samsung-Security-Kernel
+A security kernel for Samsung devices that will be treated as a system security update, which will allow the file to replace the stock security with a custom security framework that will behave according to your technical needs, anything from repairing infected phones to removing Google and Samsung from your system operators for advanced anonymity of your electronic activities from tracking and identification.
